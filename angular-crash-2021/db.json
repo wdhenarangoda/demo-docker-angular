@@ -17,6 +17,12 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": false
+    },
+    {
+      "text": "Lecture at Library",
+      "day": "October 2th at 10.00am",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
